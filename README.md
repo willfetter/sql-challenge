@@ -32,3 +32,7 @@ Data Analysis:
     8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
     The resulting data model is located at path "sql_challenge/employeeSQL/sql-challenge-data_analysis.png"
+
+Resources:
+    Class information and videos - for basics of coding and building foundation
+    Stack overflow - for trouble shooting, and researching best code practices

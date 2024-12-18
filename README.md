@@ -11,7 +11,6 @@ Data Modeling:
     The resulting data model is located at path "sql_challenge/employeeSQL/sql-challenge-Data_Modeling.png"
 
 Data Engineering:
-
     1. Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
         - Remember to specify the data types, primary keys, foreign keys, and other constraints.
         - For the primary keys, verify that the column is unique. Otherwise, create a composite keyLinks to an external site., which takes two primary keys to uniquely identify a row.
